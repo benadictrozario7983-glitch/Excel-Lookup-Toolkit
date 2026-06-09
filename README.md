@@ -35,6 +35,6 @@ Welcome to my portfolio repository demonstrating advanced spreadsheet architectu
 
 ## 🚀 Getting Started
 To explore the live mechanics of these calculations, download the production workbook from the root directory:
-1. Download `Data_Retrieval_Architecture_Master.xlsx`.
+1. Download `https://github.com/benadictrozario7983-glitch/Excel-Lookup-Toolkit/blob/main/lookup's%20excel%20project.xlsx.
 2. Ensure you have automatic formula calculation enabled (`Alt` + `M` + `X` + `A`).
 3. Modify the inputs highlighted in **Yellow** to watch the lookup matrices update in real-time.
